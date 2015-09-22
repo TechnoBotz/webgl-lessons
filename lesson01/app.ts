@@ -1,5 +1,4 @@
 ///<reference path='../typings/tsd.d.ts'/>
-//import glMatrix = require("gl-matrix");
 
 interface MyWebGLContext extends WebGLRenderingContext {
     viewportWidth?: number;
